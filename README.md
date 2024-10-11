@@ -1,1 +1,1 @@
-# pallindrome:-
+# palindrome:-
